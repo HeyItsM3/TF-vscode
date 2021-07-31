@@ -1,2 +1,2 @@
-# TF-vscode
+# TypeF-vscode
 2020
